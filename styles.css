@@ -122,3 +122,11 @@ html, body {
     height: 50vh;
   }
 }
+@media (min-width: 1152px) {
+  .headline {
+    font-size: 69px;
+  }
+  .sub-section {
+    font-size: 24px;
+  }
+}
